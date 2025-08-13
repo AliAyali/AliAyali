@@ -8,7 +8,7 @@
 - 💡 Skilled in **Kotlin**, **Android**, **Jetpack Compose**, **MVVM**  
 - 🌱 Currently learning **Mobile App Security** & **Advanced MVVM**  
 - 📍 Based in **Mashhad, Iran**  
-- 📫 Reach me: [Email](ali.ayali.programmer@gmail.com)
+- 📫 Reach me: [Email](mailto:ali.ayali.programmer@gmail.com)
 
 ---
 
