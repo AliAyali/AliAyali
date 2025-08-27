@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAyali&show_icons=true&theme=radical&hide=prs&count_private=true&show_stars=true)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAyali&show_icons=true&theme=radical&count_private=true&show_stars=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAyali&theme=radical)
 
