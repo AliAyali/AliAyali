@@ -23,11 +23,9 @@
 ---
 
 ### 📊 GitHub Stats
-
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliAyali&show_icons=true&theme=dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAyali&theme=radical)
-
 ---
 
 ### ⚡ Fun Quote
