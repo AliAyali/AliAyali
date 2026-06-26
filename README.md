@@ -137,7 +137,6 @@ The project will be published soon with complete documentation and architecture 
 
 # 🎯 Goals
 
-* Build production-ready Android applications
 * Master Modern Android Development
 * Improve software architecture skills
 * Contribute to Open Source
